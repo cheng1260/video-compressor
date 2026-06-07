@@ -1,7 +1,7 @@
 {
   "versionCode": 1,
   "versionName": "1.0.0",
-  "apkUrl": "https://github.com/cheng1260/video-compressor/releases/download/v1.0.0/video-compressor.apk",
+  "apkUrl": "https://github.com/cheng1260/video-compressor/releases/download/v1.0.0/default.apk",
   "updateLog": "1. 首次发布\n2. 基础视频压缩功能",
   "isForceUpdate": false,
   "minSdkVersion": 21
